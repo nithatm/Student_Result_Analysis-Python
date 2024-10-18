@@ -1,2 +1,2 @@
 # student_result_analysis
-Student result analysis using python and data analysis
+This project focuses on analyzing student performance based on various demographic, academic, and lifestyle factors. The dataset includes key features such as gender, ethnic group, parental education, lunch type, test preparation, and weekly study hours, along with students' math, reading, and writing scores. Using Python for data analysis, the project aims to uncover patterns and insights that could help understand the factors influencing academic success. By visualizing these relationships, the goal is to identify key predictors of student performance and provide actionable insights for educators and policymakers.
